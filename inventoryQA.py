@@ -1,4 +1,4 @@
-from InventoryManagement import warehouses, remove_product, transfer_stock, reorder, select_warehouse
+from Inventorymanagement import warehouses, remove_product, transfer_stock, reorder, select_warehouse
 import threading
 
 def test_stock_availability():
